@@ -86,6 +86,7 @@ Rendi | 23 | Bandung
  [buat emoji](https://gist.github.com/AliMD/3344523
 )
 
+🍍 pineapple
 🕐 time
 
 
